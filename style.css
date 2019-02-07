@@ -1,0 +1,56 @@
+div {
+    text-transform: uppercase;
+    
+  }
+p{
+    text-align: center;
+}
+.buttons{
+    display: flex;
+    justify-content: space-between;
+   
+    flex-wrap: wrap;
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
+.cookie{
+    background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(29,152,184,1) 100%);
+
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid #5D6063;
+    border-radius: 5px;
+    width: 200px;
+
+  }
+  .login   {
+    background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(29,152,184,1) 100%);
+
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid #5D6063;
+    border-radius: 5px;
+    width: 200px;
+  }
+  .button{
+    background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(29,152,184,1) 100%);
+
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid #5D6063;
+    border-radius: 5px;
+    width: 200px;
+  }
+  body{
+    background-color: rgb(134, 168, 219);
+  }
+  * {
+    font-family: -apple-system, BlinkMacSystemFont, "San Francisco", Helvetica, Arial, sans-serif;
+  font-weight:  300; 
